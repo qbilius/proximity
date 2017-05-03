@@ -4,7 +4,7 @@ Bluetooth device proximity detection.
 
 ## Installation
 
-Get the latest release from Releases tab or build it yourself:
+[Get the latest release](https://github.com/qbilius/proximity/releases/download/v1.6/Proximity.app.zip) or build it yourself:
 
 - Build XCode project (Product -> Build For -> Running).
 - Output is "Proximity.app" file, which can be found in the "Products" directory.
